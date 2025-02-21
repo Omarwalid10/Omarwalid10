@@ -1,33 +1,46 @@
-<h1 align="center">Hi, I'm Omar 👋</h1>
-<p align="center">
-    <a href="https://www.linkedin.com/in/omar-walid1/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:om.walid2003@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white"/></a>
-    <a href="https://codeforces.com/profile/Omar_W74"><img src="https://img.shields.io/badge/codeforces-%23D14836.svg?&style=flat&logo=codeforces&logoColor=white"/></a>
-    <a href="https://wa.me/<+201064923843>"><img src="https://img.shields.io/badge/whatsapp-%25D366.svg?&style=flat&logo=whatsapp&logoColor=white"/></a>
-  </p>
-<hr>
+# Hi there! 👋 I'm Omar Walid
 
-I am a computer science student excited to gain experience in the software industry to be a professional software
-engineer. I learn more and excel in Design Patterns, Solid principles, and UML diagrams. I know and practice with Java,
-C++, Python, JS, Microsoft SQL Server, and I have some experience as a front-end and back-end web developing, and I
-have Problem-Solving skills because I Participate in competitive programming.
-<hr>
+Welcome to my GitHub profile! I'm a passionate software engineer specializing in ASP.NET Core, C#, and backend development. I also have experience in a growing interest in cloud technologies, Kubernetes, and DevOps practices.
 
-- 🌱 I’m currently learning backend development
-- 👯 I’m looking to collaborate on fullstack projects
-- 📫 How to reach me: +201064923843 , https://www.linkedin.com/in/omar-walid1/
+## 📫 Connect With Me
+- 📧 Email: [om.walid2003@gmail.com](mailto:om.walid2003@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/omar-walid-ahmed](https://www.linkedin.com/in/omar-walid-ahmed)
+- 📞 Phone Number: +201064923843
 
-<!--
-**Omarwalid10/Omarwalid10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 About Me
+- 🎓 Graduated from the Faculty of Computers and Artificial Intelligence, Cairo University.
+- 🚀 Passionate about backend development, software architecture, and cloud technologies.
+- 💡 Interested in **OOP, SOLID principles, design patterns, and software development** for scalable applications.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** C#, C++, JAVA, PYTHON, HTML, CSS, JS, TypeScript, SQL
+- **Frameworks & Libraries:** ASP.NET Core, Entity Framework, Angular
+- **Databases:** SQL Server, PostgreSQL
+- **DevOps & Cloud:** Docker, Kubernetes, IIS, Linux
+- **Other:** Git, REST APIs, LINQ, Microservices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+### 🚀 Holistic Care Hub
+A web platform for career consultation and mentorship, built with **ASP.NET Core MVC** and **PostgreSQL**.<br/><br/>
+**Features:**
+-	Developed features using ASP.NET Core MVC, HTML, CSS, and JavaScript.
+-	Solved the problem of authorization by making accounts for the admin, users, experts, and subscribers.
+-	Developed a dashboard for admin, increasing the ease of changing and controlling the website content. 
+-	Developed a dashboard for all experts to add their sessions and free time slots to make the users book appointments with them.
+-	Integrated the Paymob payment gateway to make users pay for subscription plans, courses, and sessions streamlining payments for users and experts.
+-	Used Docker to deploy the website on the server.
+
+
+### 📖 AlMaqraa | Graduation Project
+A web application for Quran recitation and memorization.<br/><br/>
+**Features:** 
+-	Developing a mobile app using Flutter that allows users to recite the Quran and receive feedback on their recitations.
+-	Implementing ASP.NET Web API for the backend services.
+-	Integrating a machine learning model using Python to analyze voice inputs and provide text feedback.
+-	Utilized Speech-to-Text algorithms to convert Arabic speech to diacritics text and compare it with the Quranic text for accuracy, providing feedback on the correctness of recitations.
+-	Focused on providing an accurate and user-friendly experience for Quran recitations.
+
+### ⚡ Fun Fact
+I love exploring new technologies and solving complex backend challenges!
+
+
